@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>image-validator</name>
 	<description>image validator annotation</description>
-	<url></url>
+	<url>https://github.com/DhruvikR1/image-validator.git</url>
 	<licenses>
 		<license/>
 	</licenses>
