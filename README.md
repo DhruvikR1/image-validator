@@ -1,6 +1,6 @@
 # Image Validator
 
-[![Image Validator](https://img.shields.io/maven-central/v/io.github.dhruvikr1/image-validator.svg?color=green)](https://mvnrepository.com/artifact/io.github.dhruvikr1/image-validator)
+[![Image Validator](https://img.shields.io/maven-central/v/io.github.dhruvikr1/image-validator.svg?color=green)](https://central.sonatype.com/artifact/io.github.dhruvikr1/image-validator)
 
 
 `image-validator` is a simple and efficient Java library for validating image files. It allows you to validate the file type, size, and dimensions of images uploaded by users or passed as input in your application.
