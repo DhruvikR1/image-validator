@@ -10,8 +10,9 @@
 	</parent>
 	<groupId>io.github.dhruvikr1</groupId>
 	<artifactId>image-validator</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>image-validator</name>
+	<packaging>jar</packaging>
 	<description>image validator annotation</description>
 	<url>https://github.com/DhruvikR1/image-validator.git</url>
 	<licenses>
@@ -63,10 +64,6 @@
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>

@@ -1,6 +1,6 @@
-package com.dk.image_validator.annotation;
+package io.github.dhruvikr1.annotation;
 
-import com.dk.image_validator.validator.ImageFileValidator;
+import io.github.dhruvikr1.validator.ImageFileValidator;
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;
 

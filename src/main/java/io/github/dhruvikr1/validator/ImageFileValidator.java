@@ -1,6 +1,6 @@
-package com.dk.image_validator.validator;
+package io.github.dhruvikr1.validator;
 
-import com.dk.image_validator.annotation.ValidateImage;
+import io.github.dhruvikr1.annotation.ValidateImage;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 import org.springframework.web.multipart.MultipartFile;
