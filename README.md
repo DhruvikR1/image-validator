@@ -16,7 +16,7 @@
 
 ### Read Medium Story for More Detail:
 
-[![Medium Image Validator](https://img.shields.io/maven-central/v/io.github.dhruvikr1/image-validator.svg?color=green)](https://medium.com/@dhruvik.rangani/publish-maven-library-on-maven-central-c28db141a11f)
+[![Medium](https://img.shields.io/badge/Medium-green?style=flat&logo=medium&color=red)](https://medium.com/@dhruvik.rangani/publish-maven-library-on-maven-central-c28db141a11f)
 
 ### Maven Dependency
 
