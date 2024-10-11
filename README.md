@@ -13,6 +13,11 @@
 
 ## Getting Started
 
+
+### Read Medium Story for More Detail:
+
+[![Medium Image Validator](https://img.shields.io/maven-central/v/io.github.dhruvikr1/image-validator.svg?color=green)](https://medium.com/@dhruvik.rangani/publish-maven-library-on-maven-central-c28db141a11f)
+
 ### Maven Dependency
 
 To use the library in your Maven project, add the following dependency to your `pom.xml`:
